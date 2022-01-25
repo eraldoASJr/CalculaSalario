@@ -1,0 +1,10 @@
+C:\Marisa\projetosC\ProjetoCalculaSalario\bin\Debug\ProjetoCalculaSalario.exe.config
+C:\Marisa\projetosC\ProjetoCalculaSalario\bin\Debug\ProjetoCalculaSalario.exe
+C:\Marisa\projetosC\ProjetoCalculaSalario\bin\Debug\ProjetoCalculaSalario.pdb
+C:\Marisa\projetosC\ProjetoCalculaSalario\obj\Debug\ProjetoCalculaSalario.csprojAssemblyReference.cache
+C:\Marisa\projetosC\ProjetoCalculaSalario\obj\Debug\ProjetoCalculaSalario.Form1.resources
+C:\Marisa\projetosC\ProjetoCalculaSalario\obj\Debug\ProjetoCalculaSalario.Properties.Resources.resources
+C:\Marisa\projetosC\ProjetoCalculaSalario\obj\Debug\ProjetoCalculaSalario.csproj.GenerateResource.cache
+C:\Marisa\projetosC\ProjetoCalculaSalario\obj\Debug\ProjetoCalculaSalario.csproj.CoreCompileInputs.cache
+C:\Marisa\projetosC\ProjetoCalculaSalario\obj\Debug\ProjetoCalculaSalario.exe
+C:\Marisa\projetosC\ProjetoCalculaSalario\obj\Debug\ProjetoCalculaSalario.pdb
